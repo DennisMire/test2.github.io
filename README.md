@@ -59,8 +59,8 @@
     <script>
         // --- CONFIGURATION SECTION ---
         // IMPORTANT: You MUST update these variables to match your repository.
-        const GITHUB_USERNAME = "YOUR-USERNAME"; // e.g., "octocat"
-        const REPOSITORY_NAME = "YOUR-REPOSITORY"; // e.g., "Spoon-Knife"
+        const GITHUB_USERNAME = "DennisMire"; // e.g., "octocat"
+        const REPOSITORY_NAME = "test2.github.io"; // e.g., "Spoon-Knife"
         const FOLDER_PATH = "src"; // e.g., "src" or "assets/images"
 
         const GITHUB_API_URL = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPOSITORY_NAME}/contents/${FOLDER_PATH}`;
