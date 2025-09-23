@@ -15,7 +15,7 @@ jobs:
 
       - name: Generate Folder Content Markdown
         run: |
-          FOLDER_PATH="your-folder-name" # Replace with the path to your folder
+          FOLDER_PATH="src" # Replace with the path to your folder
           OUTPUT_FILE="FOLDER_CONTENT.md" # Name of the output Markdown file
 
           echo "# Content of \`$FOLDER_PATH\`" > $OUTPUT_FILE
