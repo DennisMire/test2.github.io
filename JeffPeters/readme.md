@@ -1,7 +1,7 @@
 ***Jeff Peters Certifications***
 
 
-<img width="477" height="309" alt="JeffPetersCertificationOfAchievement" src="ttps://github.com/DennisMire/test2.github.io/tree/main/JeffPeters/JeffPetersCertificationOfAchievement.png" />
+<img width="477" height="309" alt="JeffPetersCertificationOfAchievement" src="https://github.com/DennisMire/test2.github.io/tree/main/JeffPeters/JeffPetersCertificationOfAchievement.png" />
 
 
 -------------------------------------
