@@ -1,11 +1,3 @@
-***Jeff Peters Certifications***
-
--------------------------------------
-<div class="images">
-  <img src="/JeffPeters/JeffPetersCertificationOfAchievement.png" width="80" height="50" alt="Image" />
-  <a class="link1" href="/JeffPeters/JeffPetersCertificationOfAchievement.png">Certification Of Achievement</a>
-</div>
-
 <style>
   hr.short-line {
     width: 50%; /* Adjust this value for desired length */
@@ -13,6 +5,14 @@
     margin-right: auto; /* Centers the line */
   }
 </style>
+
+***Jeff Peters Certifications***
+
+-------------------------------------
+<div class="images">
+  <img src="/JeffPeters/JeffPetersCertificationOfAchievement.png" width="80" height="50" alt="Image" />
+  <a class="link1" href="/JeffPeters/JeffPetersCertificationOfAchievement.png">Certification Of Achievement</a>
+</div>
 
 <hr class="short-line">
 
