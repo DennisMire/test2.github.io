@@ -13,14 +13,3 @@
 </div>
 
 
-
--------------------------------------
--------------------------------------
-
-![Certification of Achievement](/JeffPeters/JeffPetersCertificationOfAchievement.png#:~:text=JeffPetersCertificationOfAchievement.png?raw=true)
-
-
-![Certification of Employment](/JeffPeters/JeffPetersCertificationOfEmployment.png#:~:text=JeffPetersCertificationOfEmployment.png?raw=true)
-
-
-[Mike Smith Cert1](https://github.com/DennisMire/test2.github.io/tree/main/MikeSmith#:~:text=Mike_Smith_Cert1.txt)
