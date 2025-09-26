@@ -1,7 +1,7 @@
 ***Jeff Peters Certifications***
 
 
-<img width="119" height="77" alt="JeffPetersCertificationOfAchievement" src="/JeffPeters/JeffPetersCertificationOfAchievement.png" />
+<img width="80" height="51" alt="JeffPetersCertificationOfAchievement" src="/JeffPeters/JeffPetersCertificationOfAchievement.png" />
 
 
 -------------------------------------
