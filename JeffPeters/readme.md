@@ -8,6 +8,7 @@
   <a class="link1" href="/JeffPeters/JeffPetersCertificationOfAchievement.png">Certification Of Achievement</a>
 </div>
 
+- - - - - - - - - - - - - - - - - - - 
 <hr style="width: 100;">
 
 <div class="images">
