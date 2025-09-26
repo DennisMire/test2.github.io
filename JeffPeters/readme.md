@@ -1,7 +1,7 @@
 ***Jeff Peters Certifications***
 
 -------------------------------------
-<img style="float: right width="80" height="50" alt="JeffPetersCertificationOfAchievement" src="/JeffPeters/JeffPetersCertificationOfAchievement.png" />\
+<img style="float: right width="80" height="50" alt="JeffPetersCertificationOfAchievement" src="/JeffPeters/JeffPetersCertificationOfAchievement.png" />
 
 [Certification of Achievement](/JeffPeters/JeffPetersCertificationOfAchievement.png#:~:text=JeffPetersCertificationOfAchievement.png?raw=true)
 
