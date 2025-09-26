@@ -6,7 +6,7 @@
   <a class="link1" href="/JeffPeters/JeffPetersCertificationOfAchievement.png">Certification Of Achievement</a>
 </div>
 
-<hr style="width: 10%; margin: auto;">
+<hr style="width: 100;">
 
 <div class="images">
   <img src="/JeffPeters/JeffPetersCertificationOfEmployment.png" width="80" height="50" alt="Image" />
